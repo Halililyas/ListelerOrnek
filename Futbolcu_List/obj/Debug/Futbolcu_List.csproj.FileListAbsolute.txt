@@ -1,0 +1,8 @@
+C:\Users\hızır\Desktop\Futbolcu_List\Futbolcu_List\bin\Debug\Futbolcu_List.exe.config
+C:\Users\hızır\Desktop\Futbolcu_List\Futbolcu_List\bin\Debug\Futbolcu_List.exe
+C:\Users\hızır\Desktop\Futbolcu_List\Futbolcu_List\bin\Debug\Futbolcu_List.pdb
+C:\Users\hızır\Desktop\Futbolcu_List\Futbolcu_List\obj\Debug\Futbolcu_List.csproj.AssemblyReference.cache
+C:\Users\hızır\Desktop\Futbolcu_List\Futbolcu_List\obj\Debug\Futbolcu_List.csproj.SuggestedBindingRedirects.cache
+C:\Users\hızır\Desktop\Futbolcu_List\Futbolcu_List\obj\Debug\Futbolcu_List.csproj.CoreCompileInputs.cache
+C:\Users\hızır\Desktop\Futbolcu_List\Futbolcu_List\obj\Debug\Futbolcu_List.exe
+C:\Users\hızır\Desktop\Futbolcu_List\Futbolcu_List\obj\Debug\Futbolcu_List.pdb
